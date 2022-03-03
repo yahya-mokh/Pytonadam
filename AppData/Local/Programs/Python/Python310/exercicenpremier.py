@@ -1,5 +1,5 @@
 import math
-def dviseurdeN():
+def dviseurdeNBrePremier():
     listdediviseurdeN = []
     print(listdediviseurdeN)
     x =  int(input("entrer le nombre entier n : "))
@@ -20,4 +20,4 @@ def dviseurdeN():
     
     
     
-dviseurdeN()
+dviseurdeNBrePremier()
